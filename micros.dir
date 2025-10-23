@@ -5,13 +5,20 @@ docs/                                                          │docs/micros.di
                                                                │
                                                                │
                                                                │
-                                                               │
 ───────────────────────────────────────────────────────────────│
-mkdocs.yml                                                     │mkdocs.yml
+pages.yml                                               The... │pages.yml
                                                                │
                                                                │
-───────────────────────────────────────────────────────────────│
+---------------------------------------------------------------│
+mkdocs.yml                                              GitHub │mkdocs.yml
+                                                               │
 .github/workflows/ci.yml                                       │.github/workflows/ci.yml
+                                                               │
+                                                               │
+---------------------------------------------------------------│
+mkdocs-gitlab.yml                                       GitLab │mkdocs-gitlab.yml
+                                                               │
+.gitlab-ci.yml                                                 │.gitlab-ci.yml
                                                                │
                                                                │
 ───────────────────────────────────────────────────────────────│

@@ -1,19 +1,4 @@
-site_name: Voidc Pages
+INHERIT: pages.yml
+
 site_url: https://voidc-lab.github.io/pages
-
-theme:
-  name: material
-  palette:
-    primary: white
-  features:
-    - navigation.tabs
-
-markdown_extensions:
-  - pymdownx.tilde
-  - pymdownx.emoji
-
-nav:
-  - Home: index.md
-  - Getting started:
-    - Installation: getting-started.md
 

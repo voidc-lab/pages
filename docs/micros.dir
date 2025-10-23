@@ -1,11 +1,22 @@
-                        ***  docs  ****                        │
+                        ***  docs  ****                        │*
                                                                │
                                                                │
 Home                                                           │index.md
                                                                │
-Getting started                                                │getting-started.md
+Discover                                                       │discover/micros.dir
+                                                               │
+Learn                                                          │learn/micros.dir
+                                                               │
+Use                                                            │use/micros.dir
+                                                               │
+Develop                                                        │develop/micros.dir
+                                                               │
+Contribute                                                     │contribute/micros.dir
                                                                │
                                                                │
+                                                               │
+───────────────────────────────────────────────────────────────│
+stylesheets/extra.css                                          │stylesheets/extra.css
                                                                │
                                                                │
                                                                │

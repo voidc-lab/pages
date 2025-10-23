@@ -1,0 +1,42 @@
+site_name: Voidc Pages
+
+theme:
+  name: material
+  palette:
+    primary: white
+  features:
+    - navigation.tabs
+    - navigation.footer
+
+markdown_extensions:
+  - pymdownx.tilde
+  - pymdownx.emoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
+
+exclude_docs: |
+  micros.dir
+
+nav:
+  - Home: index.md
+  - Discover:
+    - What is Void?: discover/index.md
+  - Learn:
+    - Getting Started: learn/index.md
+  - Use:
+    - Just Do It: use/index.md
+  - Develop:
+    - Dig Deeper: develop/index.md
+  - Contribute:
+    - Make It Better: contribute/index.md
+
+
+
