@@ -2,3 +2,34 @@
 
 ...
 
+## Installation
+
+...
+
+### Dependencies
+
+...
+
+### Linux
+
+...
+
+### Windows
+
+...
+
+
+
+
+
+...
+
+
+## Usage
+
+
+...
+
+
+
+
