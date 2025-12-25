@@ -4,6 +4,9 @@
 docs/                                                          │docs/micros.dir
                                                                │
                                                                │
+---------------------------------------------------------------│
+void_lexer/                                                    │void_lexer/micros.dir
+                                                               │
                                                                │
 ───────────────────────────────────────────────────────────────│
 pages.yml                                               The... │pages.yml
@@ -19,6 +22,10 @@ mkdocs.yml                                              GitHub │mkdocs.yml
 mkdocs-gitlab.yml                                       GitLab │mkdocs-gitlab.yml
                                                                │
 .gitlab-ci.yml                                                 │.gitlab-ci.yml
+                                                               │
+                                                               │
+───────────────────────────────────────────────────────────────│
+Run mkdocs serve ...                                           │run_mkdocs
                                                                │
                                                                │
 ───────────────────────────────────────────────────────────────│

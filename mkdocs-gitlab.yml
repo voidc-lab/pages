@@ -1,4 +1,9 @@
 INHERIT: pages.yml
 
 site_url: https://voidc-lab.gitlab.io/pages
+repo_url: https://gitlab.com/voidc-lab/pages/
+
+extra:
+  voidc_repo_url: https://gitlab.com/voidc-lab/voidc/-/blob/master
+
 

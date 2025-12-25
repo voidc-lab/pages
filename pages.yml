@@ -1,12 +1,42 @@
 site_name: Voidc Pages
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/voidc-lab/voidc
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/voidc-lab/voidc
+
 theme:
   name: material
+
   palette:
-    primary: white
+    # Light mode
+    - scheme: default
+      primary: white
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+
+    # Dark mode
+    - scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
   features:
     - navigation.tabs
     - navigation.footer
+
+  logo: img/black_square.svg
+  favicon: img/black_square.svg
+
+plugins:
+  - search
+  - macros
 
 markdown_extensions:
   - pymdownx.tilde
