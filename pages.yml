@@ -14,7 +14,6 @@ theme:
     # Light mode
     - scheme: default
       primary: white
-      accent: amber
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
@@ -22,7 +21,6 @@ theme:
     # Dark mode
     - scheme: slate
       primary: black
-      accent: amber
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
