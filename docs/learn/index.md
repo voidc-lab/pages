@@ -36,7 +36,7 @@
 ```
 
 ```console
-$ git clone https://github.com/voidc-lab/voidc.git
+$ git clone {{voidc_repo}}.git
 $ cd voidc
 $ ./mk_config
 $ ./mk_build

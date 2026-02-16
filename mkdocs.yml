@@ -4,6 +4,7 @@ site_url: https://voidc-lab.github.io/pages
 repo_url: https://github.com/voidc-lab/pages/
 
 extra:
+  voidc_repo: https://github.com/voidc-lab/voidc
   voidc_repo_url: https://github.com/voidc-lab/voidc/blob/master
 
 
