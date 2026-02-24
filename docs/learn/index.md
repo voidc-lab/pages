@@ -27,13 +27,30 @@
 
 ### Linux
 
-...
+Ubuntu ...
 
 ```console
-# apt update && apt upgrade
 # apt install git cmake ninja-build
 # apt install clang libimmer-dev
 ```
+
+
+### Windows
+
+MSYS2/MINGW64 ...
+
+```console
+$ pacman -S mingw-w64-x86_64-git
+$ pacman -S mingw-w64-x86_64-cmake
+$ pacman -S mingw-w64-x86_64-clang
+$ pacman -S mingw-w64-x86_64-llvm
+$ pacman -S mingw-w64-x86_64-immer
+```
+
+
+### Compilation
+
+...
 
 ```console
 $ git clone {{voidc_repo}}.git
@@ -42,12 +59,6 @@ $ ./mk_config
 $ ./mk_build
 $ time build/voidc compiler/test/try_fruits.void -T
 ```
-
-### Windows
-
-...
-
-
 
 
 
