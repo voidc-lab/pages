@@ -18,8 +18,7 @@ Contribute                                                     │contribute/mic
 ───────────────────────────────────────────────────────────────│
 img/black_square.svg                                           │img/black_square.svg
                                                                │
-───────────────────────────────────────────────────────────────│
-stylesheets/extra.css                                          │stylesheets/extra.css
-                                                               │
+scripts/github.py                                              │scripts/github.py
+scripts/gitlab.py                                              │scripts/gitlab.py
                                                                │
                                                                │

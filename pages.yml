@@ -34,7 +34,6 @@ theme:
 
 plugins:
   - search
-  - macros
 
 markdown_extensions:
   - pymdownx.tilde
@@ -46,9 +45,6 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
-
-extra_css:
-  - stylesheets/extra.css
 
 exclude_docs: |
   micros.dir
