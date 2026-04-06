@@ -10,5 +10,5 @@ Extensibility of Void is practically limitless (*any* syntax/semantics),
 restricted only by decidability and ~~your money~~ imagination.
 
 
-## ...
+## ..
 
