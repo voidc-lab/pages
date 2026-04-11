@@ -1,7 +1,7 @@
-site_name: Voidc Pages
+site_name: Страницы Voidc
 
-site_dir: site
-docs_dir: docs/en
+site_dir: site/ru
+docs_dir: docs/ru
 
 extra:
   social:
@@ -13,7 +13,7 @@ extra:
 theme:
   name: material
 
-  language: en
+  language: ru
 
   palette:
     # Light mode
@@ -34,8 +34,8 @@ theme:
     - navigation.tabs
     - navigation.footer
 
-  logo:    img/black_square.svg
-  favicon: img/black_square.svg
+  logo:    ../img/black_square.svg
+  favicon: ../img/black_square.svg
 
 plugins:
   - search

@@ -1,7 +1,9 @@
                         ***  docs  ****                        │*
                                                                │
                                                                │
-Home                                                           │index.md
+Home                    English                                │en/index.md
+...                     Русский                                │ru/index.md
+                                                               │
                                                                │
 Discover                                                       │discover/micros.dir
                                                                │
@@ -16,9 +18,6 @@ Contribute                                                     │contribute/mic
                                                                │
                                                                │
 ───────────────────────────────────────────────────────────────│
-img/black_square.svg                                           │img/black_square.svg
-                                                               │
-scripts/github.py                                              │scripts/github.py
-scripts/gitlab.py                                              │scripts/gitlab.py
+en/img/black_square.svg                                        │en/img/black_square.svg
                                                                │
                                                                │

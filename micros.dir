@@ -5,27 +5,38 @@ docs/                                                          │docs/micros.di
                                                                │
                                                                │
 ---------------------------------------------------------------│
+scripts/github.py                                              │scripts/github.py
+scripts/gitlab.py                                              │scripts/gitlab.py
+                                                               │
+---------------------------------------------------------------│
 void_lexer/                                                    │void_lexer/micros.dir
                                                                │
                                                                │
 ───────────────────────────────────────────────────────────────│
-pages.yml                                               The... │pages.yml
+pages.yml                       English                 The... │pages.yml
+pages.ru.yml                    Русский                 The... │pages.ru.yml
                                                                │
                                                                │
 ---------------------------------------------------------------│
-mkdocs.yml                                              GitHub │mkdocs.yml
+mkdocs.yml                      English                 GitHub │mkdocs.yml
+mkdocs.ru.yml                   Русский                 GitHub │mkdocs.ru.yml
                                                                │
 .github/workflows/ci.yml                                       │.github/workflows/ci.yml
                                                                │
                                                                │
 ---------------------------------------------------------------│
-mkdocs-gitlab.yml                                       GitLab │mkdocs-gitlab.yml
+mkdocs-gitlab.yml               English                 GitLab │mkdocs-gitlab.yml
+mkdocs-gitlab.ru.yml            Русский                 GitLab │mkdocs-gitlab.ru.yml
                                                                │
 .gitlab-ci.yml                                                 │.gitlab-ci.yml
                                                                │
                                                                │
 ───────────────────────────────────────────────────────────────│
-Run zensical serve ...                                         │run_zensical
+mkdocs-local.yml                English                 Local  │mkdocs-local.yml
+mkdocs-local.ru.yml             Русский                 Local  │mkdocs-local.ru.yml
+                                                               │
+                                                               │
+Run zensical ...                                               │run_zensical
                                                                │
                                                                │
 ───────────────────────────────────────────────────────────────│

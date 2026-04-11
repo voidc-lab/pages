@@ -10,9 +10,9 @@ markdown_extensions:
 extra:
   alternate:
     - name: English
-      link: /pages/
+      link: /
       lang: en
     - name: Русский
-      link: /pages/ru/
+      link: /ru/
       lang: ru
 

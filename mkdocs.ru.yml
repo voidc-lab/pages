@@ -1,11 +1,11 @@
-INHERIT: pages.yml
+INHERIT: pages.ru.yml
 
-site_url: https://voidc-lab.gitlab.io/pages
-repo_url: https://gitlab.com/voidc-lab/pages/
+site_url: https://voidc-lab.github.io/pages
+repo_url: https://github.com/voidc-lab/pages/
 
 markdown_extensions:
   - mkpatcher:
-      location: scripts/gitlab.py
+      location: scripts/github.py
 
 extra:
   alternate:
