@@ -45,8 +45,10 @@ README                                                         │README.md
 ───────────────────────────────────────────────────────────────│
 CC-BY-4.0                                                      │LICENSE
 ═══════════════════════════════════════════════════════════════│*
-.hgignore                                                      │.hgignore
+.gitignore                                                     │.gitignore
 .mailmap                                                       │.mailmap
+                                                               │
+Setup .venv                                                    │setup_venv
 ───────────────────────────────────────────────────────────────│
 micros.incdirs                                                 │micros.incdirs
                                                                │
