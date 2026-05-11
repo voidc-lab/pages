@@ -52,17 +52,17 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - Home: index.md
-  - Discover:
-    - What is Void?: discover/index.md
-  - Learn:
-    - Getting Started: learn/index.md
-  - Use:
-    - Just Do It: use/index.md
-  - Develop:
-    - Dig Deeper: develop/index.md
-  - Contribute:
-    - Make It Better: contribute/index.md
+  - "Дом": index.md
+  - Узнайте:
+    - Что такое Void?: discover/index.md
+  - Научитесь:
+    - Начните сначала: learn/index.md
+  - Используйте:
+    - Просто делайте это: use/index.md
+  - Развивайте:
+    - Копайте глубже: develop/index.md
+  - Улучшайте:
+    - Сделайте это лучше: contribute/index.md
 
 
 

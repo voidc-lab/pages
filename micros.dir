@@ -49,6 +49,7 @@ CC-BY-4.0                                                      │LICENSE
 .mailmap                                                       │.mailmap
                                                                │
 Setup .venv                                                    │setup_venv
+Clear .venv etc...                                             │clear_venv
 ───────────────────────────────────────────────────────────────│
 micros.incdirs                                                 │micros.incdirs
                                                                │

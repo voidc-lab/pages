@@ -1,14 +1,29 @@
-![Black Square](../img/black_square.svg)
+![Черный квадрат](../img/black_square.svg)
 
-# The Void Programming Language
+# Язык программирования Void
 
-*<p align='right'>"Programming language is not a templum, it's a workshop." (c)...</p>*
+*<p align='right'>"Язык программирования не храм, а мастерская." (c)...</p>*
 
-Void is an open-source, highly extensible programming language, minimalistic and low-level in its base.
-It uses LLVM for code generation and can be seen as a thin (well, in some sense) shell around it.
-Extensibility of Void is practically limitless (*any* syntax/semantics),
-restricted only by decidability and ~~your money~~ imagination.
+Void — это язык программирования с открытым исходным кодом,
+обладающий высокой степенью расширяемости,
+минималистичный и низкоуровневый в своей основе.
+Void использует LLVM для генерации кода и может рассматриваться
+как тонкая (ну, в каком-то смысле) оболочка вокруг него.
+Расширяемость Void практически безгранична (*любой* синтаксис/семантика),
+лимитирована только разрешимостью и ~~вашими деньгами~~ воображением.
 
 
-## ..
+## На сайте...
+
+- [Что такое Void?](/ru/discover) ...
+
+- [Начните сначала](/ru/learn) ...
+
+- [Просто делайте это](/ru/use) ...
+
+- [Копайте глубже](/ru/develop) ...
+
+- [Сделайте это лучше](/ru/contribute) ...
+
+
 

@@ -1,27 +1,27 @@
-# Getting Started
+# Начните сначала
 
 ...
 
-## Installation
+## Инсталляция
 
 ...
 
-### Dependencies
+### Зависимости
 
 ...
 
-#### Toolchain
+#### Тулчейн
 
-  - Clang (v.15 or later)
-  - CMake (v.3.13.4 or later)
-  - Ninja (v.1.12.1 or later)
+  - Clang (v.15 или позже)
+  - CMake (v.3.13.4 или позже)
+  - Ninja (v.1.12.1 или позже)
 
 ...
 
-#### Libraries
+#### Библиотеки
 
-  - LLVM (v.15 or later)
-  - [Immer](https://github.com/arximboldi/immer) (v.0.8.1 or later)
+  - LLVM (v.15 или позже)
+  - [Immer](https://github.com/arximboldi/immer) (v.0.8.1 или позже)
 
 ...
 
@@ -48,7 +48,7 @@ $ pacman -S mingw-w64-x86_64-immer
 ```
 
 
-### Compilation
+### Компиляция
 
 ...
 
@@ -65,7 +65,7 @@ $ time build/voidc compiler/test/try_fruits.void -T
 ...
 
 
-## Usage
+## Использование
 
 
 ...
