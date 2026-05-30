@@ -3,7 +3,6 @@ pages:
   image: python:latest
   script:
     - pip install -e void_lexer
-    - pip install mkpatcher
     - pip install zensical
     - zensical build --clean -f mkdocs-gitlab.yml
     - zensical build --clean -f mkdocs-gitlab.ru.yml

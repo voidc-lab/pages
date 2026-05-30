@@ -21,7 +21,6 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install -e void_lexer
-      - run: pip install mkpatcher
       - run: pip install zensical
       - run: zensical build --clean -f mkdocs.yml
       - run: zensical build --clean -f mkdocs.ru.yml

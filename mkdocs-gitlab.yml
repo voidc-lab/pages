@@ -4,8 +4,8 @@ site_url: https://voidc-lab.gitlab.io/pages
 repo_url: https://gitlab.com/voidc-lab/pages/
 
 markdown_extensions:
-  - mkpatcher:
-      location: scripts/gitlab.py
+  - zensical.extensions.macros:
+      module_name: scripts/macros_gitlab
 
 extra:
   alternate:

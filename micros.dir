@@ -5,8 +5,8 @@ docs/                                                          │docs/micros.di
                                                                │
                                                                │
 ---------------------------------------------------------------│
-scripts/github.py                                              │scripts/github.py
-scripts/gitlab.py                                              │scripts/gitlab.py
+scripts/macros_github.py                                       │scripts/macros_github.py
+scripts/macros_gitlab.py                                       │scripts/macros_gitlab.py
                                                                │
 ---------------------------------------------------------------│
 void_lexer/                                                    │void_lexer/micros.dir
